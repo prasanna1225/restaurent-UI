@@ -1,0 +1,113 @@
+.container-fluid{
+  padding:3% 15% 7%;
+}
+.navbar-brand{
+  font-size: 2.5rem;
+  font-weight:bold;
+}
+.navbar{
+  padding-bottom:0 0 4.5rem;
+}
+.nav-item{
+  padding:0 18px;
+}
+
+
+
+h1{
+font-weight: bold;
+font-size: 3rem;
+line-height: 3;
+padding:15% 15% 8%;
+
+
+}
+.quote{
+  font-weight: bold;
+  line-height: 1.5;
+  margin-left: 15%;
+}
+
+
+.log-button{
+margin:5% 13% 15% 15%;
+
+}
+.burger{
+  width:100%;
+  height:100%;
+  margin-left: none;
+
+}
+
+.service-box{
+  text-align: center;
+  padding:5%;
+}
+#service{
+  padding:7% 15%;
+  background-color: #fff;
+  position: relative;
+}
+
+h3{
+  font-family:"Montserrat";
+  font-weight: bold;
+}
+
+p{
+  color: #8f8f8f;
+  font-weight: 500;
+}
+/*testimonial*/
+
+/*cards*/
+#offers{
+  padding:100px;
+}
+.offer{
+  padding: 3% 2%;
+  text-align: center;
+}
+  #footer{
+  background-color: #fff;
+  padding: 7% 15%;
+  text-align: center;
+}
+
+/*login*/
+.noodles{
+width: 100%;
+min-height: 100vh;
+padding-bottom: 50px;
+opacity: 0.2;
+box-sizing: border-box;
+
+}
+
+.login{
+  background-color: #fff;
+  padding:50px;
+  border-radius: 10px;
+}
+.center{
+  position: absolute;
+  top:50%;
+  left:40%;
+
+
+}
+.bottom_right{
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+}
+.center2{
+  position: absolute;
+  top:30%;
+  left:40%;
+}
+.menu_img{
+  height: 10px;
+  width:10px;
+}
